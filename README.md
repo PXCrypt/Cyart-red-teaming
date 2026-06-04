@@ -9,7 +9,7 @@ Cybersecurity practical labs — Threat hunting, Malware analysis, IR simulation
 | Task 1 | Threat Hunting | ✅ Done | Sigma Rules, Event Viewer |
 | Task 2 | Malware Analysis | ✅ Done | REMnux, Hybrid Analysis |
 | Task 3 | Vuln Management | ✅ Done | OpenVAS, DefectDojo |
-| Task 4 | IR Simulation | ⚠️ Partial | MITRE ATT&CK documented |
+| Task 4 | IR Simulation | ✅ Partial | MITRE ATT&CK documented |
 | Task 5 | Network Defense | ✅ Done | Suricata |
 | Task 6 | Risk ALE | ✅ Done | Google Sheets |
 | Task 7 | IR Report | ✅ Done | SANS Template |
