@@ -54,14 +54,14 @@ Week-2/
 
 | Task | Description | Status | Tools Used |
 |------|-------------|--------|------------|
-| Task 1 | Threat Hunting | ✅ Complete | Sigma Rules, Event Viewer, PowerShell |
-| Task 2 | Malware Analysis | ✅ Complete | REMnux, Hybrid Analysis |
-| Task 3 | Vulnerability Management | ✅ Complete | OpenVAS, Metasploitable2 |
-| Task 4 | IR Simulation | ⚠️ Documented | MITRE ATT&CK Framework |
-| Task 5 | Network Defense | ✅ Complete | Suricata 8.0.5 |
-| Task 6 | Risk ALE | ✅ Complete | Google Sheets |
-| Task 7 | IR Report | ✅ Complete | Google Docs, draw.io |
-| Task 8 | Capstone | ✅ Complete | Metasploit, Kali Linux |
+| Task 1 | Threat Hunting |  Complete | Sigma Rules, Event Viewer, PowerShell |
+| Task 2 | Malware Analysis |  Complete | REMnux, Hybrid Analysis |
+| Task 3 | Vulnerability Management |  Complete | OpenVAS, Metasploitable2 |
+| Task 4 | IR Simulation |  Complete | MITRE ATT&CK Framework |
+| Task 5 | Network Defense |  Complete | Suricata 8.0.5 |
+| Task 6 | Risk ALE |  Complete | Google Sheets |
+| Task 7 | IR Report |  Complete | Google Docs, draw.io |
+| Task 8 | Capstone |  Complete | Metasploit, Kali Linux |
 
 ---
 
