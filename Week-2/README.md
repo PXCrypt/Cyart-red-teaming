@@ -1,8 +1,8 @@
 # Week 2 — Practical Cybersecurity Assignment
 
 ## Student Info
-- Name:Rushikesh Pawar
-- Repository:Cyart-red-teaming
+- Name: Rushikesh Pawar
+- Repository: Cyart-red-teaming
 - Week: 2
 - Deadline: Friday 4:30 PM
 
